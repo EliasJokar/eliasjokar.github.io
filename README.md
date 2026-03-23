@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Your Name | Personal Website</title>
-  <meta name="description" content="Personal website introducing Your Name, background, work, and a link to EntiAI." />
+  <title>Elias Jokar | Applied Mathematician focused on applied AI, Founder</title>
+  <meta name="description" content="Personal website of Elias Jokar — applied mathematicianfocused on applied AI, and founder, sharing ideas, work, and a link to EntiAI." />
   <style>
     :root {
       --bg: #07111f;
@@ -346,6 +346,7 @@
       </a>
       <div class="nav-links">
         <a href="#about">About</a>
+        <a href="#mathematics">Mathematics</a>
         <a href="#work">Work</a>
         <a href="#journey">Journey</a>
         <a href="#connect">Connect</a>
@@ -356,14 +357,14 @@
   <header class="hero" id="top">
     <div class="container hero-grid">
       <div>
-        <div class="eyebrow">Personal website • AI, ideas, and building</div>
+        <div class="eyebrow">Personal website • Mathematics, AI, and building</div>
         <h1>
           Hi, I'm <span class="gradient">Your Name</span>.
           <br />
-          I build ideas around AI, products, and meaningful digital experiences.
+          I work at the intersection of <span class="gradient">mathematics, AI, and digital innovation</span>.
         </h1>
         <p class="lead">
-          This is my personal space on the web — a place to share who I am, what I work on, and the thinking behind my professional work. For my company and business-facing work, visit <strong>EntiAI</strong>.
+          This is my personal space on the web — a place to share who I am, what I work on, and how my background in mathematics shapes my approach to AI, problem-solving, and building meaningful digital experiences. For my company and business-facing work, visit <strong>EntiAI</strong>.
         </p>
         <div class="cta-row">
           <a class="btn btn-primary" href="https://entiai.com" target="_blank" rel="noopener noreferrer">Visit EntiAI</a>
@@ -376,15 +377,15 @@
           <div class="avatar">YN</div>
           <div>
             <h2 style="margin:0; font-size:1.3rem;">Your Name</h2>
-            <div class="role">Founder / Builder / AI Enthusiast</div>
+            <div class="role">Mathematician / Founder / AI Builder</div>
           </div>
         </div>
         <p style="margin:0; color:var(--muted);">
-          I’m interested in how AI can become useful, human-centered, and practical — not just impressive, but genuinely valuable.
+          I’m interested in how mathematical thinking can shape useful, human-centered AI — combining abstraction, structure, and practical value.
         </p>
         <div class="mini-list">
+          <div class="mini-item">Grounded in mathematics, logic, and analytical thinking</div>
           <div class="mini-item">Focused on AI products, workflows, and digital identity</div>
-          <div class="mini-item">Exploring how personal ideas connect to professional execution</div>
           <div class="mini-item">Building public-facing work through <strong>entiai.com</strong></div>
         </div>
       </aside>
@@ -397,24 +398,43 @@
         <div class="card">
           <h2 class="section-title">About me</h2>
           <p class="section-copy">
-            I’m someone who enjoys turning abstract ideas into something clear, useful, and real. My interests sit at the intersection of technology, creativity, strategy, and the future of AI. I like building projects that help people understand complex topics in a simple and practical way.
+            I’m a mathematician with a strong interest in artificial intelligence, technology, and the transformation of ideas into practical systems. Mathematics has shaped the way I think — with clarity, structure, abstraction, and rigor — and that mindset continues to influence how I approach AI, product development, and digital strategy.
           </p>
           <div class="tag-row">
+            <span class="tag">Mathematics</span>
             <span class="tag">AI</span>
+            <span class="tag">Analytical thinking</span>
             <span class="tag">Product thinking</span>
             <span class="tag">Digital strategy</span>
-            <span class="tag">Startup mindset</span>
           </div>
         </div>
 
         <div class="card">
           <h2 class="section-title">What this site is for</h2>
           <p class="section-copy">
-            This personal site introduces the person behind the work. It gives context to my background, values, interests, and direction. It complements my professional website rather than replacing it.
+            This personal site introduces the person behind the work. It gives context to my background, values, intellectual interests, and direction. It complements my professional website rather than replacing it.
           </p>
           <p class="section-copy" style="margin-top:14px;">
-            <strong>Personal website:</strong> who I am, what I believe, what I’m learning.<br />
+            <strong>Personal website:</strong> who I am, how I think, what I’m learning.<br />
             <strong>EntiAI:</strong> my professional work, business direction, and public offering.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="mathematics">
+      <div class="container grid-2">
+        <div class="card">
+          <h2 class="section-title">Mathematics and my mindset</h2>
+          <p class="section-copy">
+            Mathematics is not only part of my background — it is part of how I think. It influences how I work with abstraction, how I break down difficult problems, and how I look for elegant and reliable solutions.
+          </p>
+        </div>
+
+        <div class="card">
+          <h2 class="section-title">Why it matters in AI</h2>
+          <p class="section-copy">
+            My interest in AI is closely connected to my interest in mathematics. Both involve patterns, structure, logic, and the challenge of turning complexity into insight. This connection shapes the way I approach innovation and problem-solving.
           </p>
         </div>
       </div>
@@ -424,20 +444,20 @@
       <div class="container">
         <h2 class="section-title">What I work on</h2>
         <p class="section-copy">
-          My work is centered on building thoughtful digital experiences and exploring how AI can support real people, teams, and businesses.
+          My work is centered on mathematical clarity, thoughtful digital experiences, and exploring how AI can support real people, teams, and businesses.
         </p>
         <div class="grid-3" style="margin-top:22px;">
           <div class="card">
+            <h3>Mathematical thinking in practice</h3>
+            <p>I use mathematical reasoning to approach complexity, structure ideas, and solve problems with clarity and precision.</p>
+          </div>
+          <div class="card">
             <h3>AI ideas into real products</h3>
-            <p>I like shaping early concepts into websites, workflows, tools, and useful product directions.</p>
+            <p>I explore how concepts from mathematics and AI can become useful tools, workflows, websites, and product directions.</p>
           </div>
           <div class="card">
-            <h3>Clear communication</h3>
-            <p>I care about making technology understandable, approachable, and connected to real outcomes.</p>
-          </div>
-          <div class="card">
-            <h3>Professional execution</h3>
-            <p>My professional projects and business-facing work are presented on <a href="https://entiai.com" target="_blank" rel="noopener noreferrer"><strong>entiai.com</strong></a>.</p>
+            <h3>Clear and rigorous communication</h3>
+            <p>I care about making advanced ideas understandable, approachable, and connected to real outcomes for people and businesses.</p>
           </div>
         </div>
       </div>
@@ -449,24 +469,24 @@
           <h2 class="section-title">My journey</h2>
           <div class="timeline">
             <div class="timeline-item">
-              <div class="year">Start</div>
+              <div class="year">Beginning</div>
               <div>
-                <h3 style="margin:0 0 8px;">Curiosity first</h3>
-                <p>I started from curiosity — understanding technology, digital products, and how ideas become something people can use.</p>
+                <h3 style="margin:0 0 8px;">A foundation in mathematics</h3>
+                <p>My early interest in mathematics shaped the way I approach ideas — through logic, abstraction, structure, and disciplined problem-solving.</p>
               </div>
             </div>
             <div class="timeline-item">
-              <div class="year">Growth</div>
+              <div class="year">Development</div>
               <div>
-                <h3 style="margin:0 0 8px;">Building with purpose</h3>
-                <p>Over time, I became more interested in creating work that blends strategy, usability, design, and emerging AI capabilities.</p>
+                <h3 style="margin:0 0 8px;">From theory to application</h3>
+                <p>Over time, I became increasingly interested in how mathematical and analytical thinking could be applied to technology, AI, and digital products.</p>
               </div>
             </div>
             <div class="timeline-item">
-              <div class="year">Now</div>
+              <div class="year">Today</div>
               <div>
-                <h3 style="margin:0 0 8px;">Creating EntiAI</h3>
-                <p>I’m building a stronger professional presence through EntiAI while keeping this site as a more human and personal introduction.</p>
+                <h3 style="margin:0 0 8px;">Building with AI and mathematical clarity</h3>
+                <p>I’m building a stronger professional presence through EntiAI while keeping this site as a more personal introduction to my academic mindset, values, and direction.</p>
               </div>
             </div>
           </div>
@@ -475,15 +495,15 @@
         <div class="card">
           <h2 class="section-title">What matters to me</h2>
           <p class="quote">
-            “Technology is most interesting when it becomes meaningful, understandable, and genuinely useful.”
+            “Mathematics teaches clarity; technology gives that clarity a way to create impact.”
           </p>
           <p class="section-copy" style="margin-top:18px;">
-            I value clarity, curiosity, thoughtful ambition, and building things that connect ideas with action. I’m especially interested in projects where innovation still feels human.
+            I value clarity, curiosity, thoughtful ambition, and building things that connect ideas with action. I’m especially interested in work where innovation still feels human and intellectually grounded.
           </p>
           <div class="tag-row">
             <span class="tag">Curiosity</span>
             <span class="tag">Clarity</span>
-            <span class="tag">Creativity</span>
+            <span class="tag">Logic</span>
             <span class="tag">Usefulness</span>
           </div>
         </div>
@@ -509,10 +529,9 @@
 
   <footer class="footer">
     <div class="container footer-inner">
-      <div>© 2026 Your Name</div>
+      <div>© 2026 Elias Jokar</div>
       <div>Personal website • Connected to <a href="https://entiai.com" target="_blank" rel="noopener noreferrer"><strong>entiai.com</strong></a></div>
     </div>
   </footer>
 </body>
 </html>
-
