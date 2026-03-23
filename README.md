@@ -375,8 +375,8 @@
         <div class="profile-top">
           <div class="avatar">YN</div>
           <div>
-            <h2 style="margin:0; font-size:1.3rem;">Your Name</h2>
-            <div class="role">Mathematician / Founder / AI Builder</div>
+            <h2 style="margin:0; font-size:1.3rem;">Elias Jokar</h2>
+            <div class="role">Mathematician focused on applied AI/ Founder</div>
           </div>
         </div>
         <p style="margin:0; color:var(--muted);">
