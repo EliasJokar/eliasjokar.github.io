@@ -342,7 +342,7 @@
     <div class="container nav-inner">
       <a href="#top" class="brand">
         <span class="brand-mark"></span>
-        <span>Your Name</span>
+        <span>Elias Jokar</span>
       </a>
       <div class="nav-links">
         <a href="#about">About</a>
@@ -359,7 +359,7 @@
       <div>
         <div class="eyebrow">Personal website • Mathematics, AI, and building</div>
         <h1>
-          Hi, I'm <span class="gradient">Your Name</span>.
+          Hi, I'm <span class="gradient">Elias Jokar</span>.
           <br />
           I work at the intersection of <span class="gradient">mathematics, AI, and digital innovation</span>.
         </h1>
