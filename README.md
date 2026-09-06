@@ -370,25 +370,6 @@
           <a class="btn btn-secondary" href="#about">Learn more about me</a>
         </div>
       </div>
-
-      <aside class="hero-card">
-        <div class="profile-top">
-          <div class="avatar">YN</div>
-          <div>
-            <h2 style="margin:0; font-size:1.3rem;">Elias Jokar</h2>
-            <div class="role">Mathematician focused on applied AI/ Founder</div>
-          </div>
-        </div>
-        <p style="margin:0; color:var(--muted);">
-          I’m interested in how mathematical thinking can shape useful, human-centered AI — combining abstraction, structure, and practical value.
-        </p>
-        <div class="mini-list">
-          <div class="mini-item">Grounded in mathematics, logic, and analytical thinking</div>
-          <div class="mini-item">Focused on AI products, workflows, and digital identity</div>
-          <div class="mini-item">Building public-facing work through <strong>entiai.com</strong></div>
-        </div>
-      </aside>
-    </div>
   </header>
 
   <main>
